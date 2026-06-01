@@ -5,6 +5,7 @@ description = "Narzędzia Inżynierii Programowania - lekcja 9"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "github-actions>=0.0.1",
     "pydantic>=2.12.5",
     "ruff>=0.15.15",
 ]
